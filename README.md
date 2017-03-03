@@ -13,8 +13,7 @@ Logan Saliga
 For this project, we built a photo gallery that both displayed photos and allowed the user to navigate through the photos.
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://logansaliga.github.io/lesson6_javascript3/
 
 ### Lessons Learned in the Assignment:
 1. We learned about cloning nodes, which is when you create a new node similar to an existing one.  Cloning prevents you from having to rewrite all the statements to configure a new one.
